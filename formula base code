@@ -1,0 +1,4 @@
+def trapezoid_area(base1, base2, height):
+    return ((base1+base2)*height)/2
+
+print(trapezoid_area(5, 6, 10))
